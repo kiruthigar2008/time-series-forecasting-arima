@@ -1,0 +1,5 @@
+Series,n,ADF stat,ADF p,KPSS stat,KPSS p,Verdict
+"Original (d=0, D=0)",30,-3.287,0.0155,0.653,0.018,Inconclusive
+First difference (d=1),29,-7.89,0.0,0.297,0.1,Stationary
+"Seasonal difference (D=1, lag 7)",23,-2.708,0.0726,0.315,0.1,Inconclusive
+"Both (d=1, D=1)",22,-5.191,0.0,0.051,0.1,Stationary

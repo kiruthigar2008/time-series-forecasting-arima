@@ -1,0 +1,4 @@
+,MAPE (%),RMSE
+"SARIMA(0, 1, 1)x(0, 1, 1, 7)",0.33,0.62
+Seasonal naive,3.922,6.024
+Naive,8.246,17.034
