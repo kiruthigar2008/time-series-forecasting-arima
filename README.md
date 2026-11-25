@@ -1,4 +1,4 @@
-# Time-Series Forecasting with ARIMA
+# Time-Series Forecasting with SARIMA
 
 An end-to-end forecasting pipeline for daily demand: decomposition, stationarity testing, SARIMA model selection, evaluation on a test split, and a 30-day forecast.
 
